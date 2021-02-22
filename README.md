@@ -1,2 +1,3 @@
-# Julie-JS-Projects
-Repository for my early, very simple Javascript projects
+# Julie-JS-Projects-If1-Simplest
+
+a ridiculously simple example of an if statement, as simple as it gets
